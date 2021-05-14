@@ -1,0 +1,7 @@
+id,fname,lname,city
+02,James,Anderson,Toronto
+01,Joe,Root,Ottawa
+
+id,fname,lname,city
+04,Alyssa,Heally,Montreal
+03,Chris,Nolan,Ottawa
